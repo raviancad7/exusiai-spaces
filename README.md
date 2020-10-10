@@ -25,12 +25,12 @@ Después de obtener esos datos, vamos a python y declaramos unas variables.
 - `secret_key = '0BuzYwSJ4v4zxz1+NkVImxTcCU70'`
 - `space = 'name_of_your_space'`
 
-Declaradas las variables procedemos a hacer la conexión utilizando la clase Exusiai, que debemos importar primero.
+Declared the variables we proceed to make the connection using the class Exusiai, which we must import first.
 
 - `ex_space = Exusiai(key, secret_key, space)`
 
-A partir de aquí puedes hacer lo que gustes con Exusiai.
-En [example.py](example.py)
+From here you can do what you like with Exusiai.
+In [example.py](https://github.com/raviancad7/exusiai-spaces/blob/master/example.py) you can find an example of how to use Exusiai.
 
 ## TODO List
 - [ ] Add documentation.
