@@ -19,7 +19,7 @@ First of all, you need to have three essential things.
 2. A secret key that gives you DO Spaces.
 3. Your 'Space' in Digital Ocean. (Also, called 'Bucket' in AWS S3).
 
-Después de obtener esos datos, vamos a python y declaramos unas variables.
+After obtaining that data, we go to python and declare some variables.
 
 - `key = 'CVSUDYBV27NZQV2JWKDH'`
 - `secret_key = '0BuzYwSJ4v4zxz1+NkVImxTcCU70'`
