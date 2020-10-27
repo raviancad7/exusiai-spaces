@@ -1,5 +1,6 @@
 import boto3
 
+
 class Exusiai:
     def __init__(self, key, secret_key, space):
         self.key = key
